@@ -1,10 +1,10 @@
 # Classic Arcade Game Clone
 
 ## Introduction
-This is one of the projects for Udacity's the Front-End Development Nanodegree. The mission in this game is to reach the water without the bugs touching you. If the bugs touch you you will get to the starting point. After you reach the water you win and the game will reset automatically.
+This is one of the projects for Udacity's the Front-End Development Nanodegree. The mission in this game is to reach the water without the bugs touching you. If the bugs touch you, the game restarts and you will get to the starting point again. After you reach the water you win and the game will reset automatically.
 
 ## Installing 
-1. Clone this repo.
+1. Clone or download this repo.
 2. Load the index.html in the browser.
 3. Play the game!  
 
