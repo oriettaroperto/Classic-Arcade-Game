@@ -11,8 +11,7 @@ This is one of the projects for Udacity's the Front-End Development Nanodegree. 
 ## How to play:
 1. Use the arrow keys to move around.
 2. Try to avoid being touched by the bugs.
-3. When you make it to the water, you win :star:. 
-If you touch a bug you lose and the game restarts :x:.
+3. When you make it to the water, you win :star:. If you touch a bug you lose and the game restarts :trollface:.
 
 ## Resources used:
 - The initial repo for this project, which you can find clicking [here.](https://github.com/udacity/frontend-nanodegree-arcade-game)
